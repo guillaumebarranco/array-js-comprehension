@@ -6,13 +6,13 @@ Ce repository n'existe pour l'instant que dans le cadre d'une plus grande compr�
 ## Ces méthodes ne modifient pas le tableau initial
 
 Besoin de vérifier que tous les éléments du tableau répondent à une seule et même condition ? 
-=> Array.every()
+  => Array.every()
 
 Besoin de soumettre chaque valeur à une condition et ne remplir l'array de retour qu'avec les valeurs ayant renvoyées un true ? 
-=> Array.filter()
+  => Array.filter()
 
 Besoin de récupérer le premier élément d'un tableau à valider une condition ? 
-=> Array.find()
+  => Array.find()
 
 Besoin de récupérer l'index du premier élément d'un tableau à valider une condition ? 
 => Array.findIndex()
