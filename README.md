@@ -7,7 +7,7 @@ Ce repository n'existe pour l'instant que dans le cadre d'une plus grande compr�
 
 Besoin de vérifier que tous les éléments du tableau répondent à une seule et même condition ? 
 
-  => Array.every()
+    => Array.every()
 
 
 Besoin de soumettre chaque valeur à une condition et ne remplir l'array de retour qu'avec les valeurs ayant renvoyées un true ? 
